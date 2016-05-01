@@ -1,0 +1,17 @@
+{
+ {
+ "NAME":"Knitted Phants"
+ "DESCRIPTION":"Knitted Phants"
+ "SALES_START_DATE":"2016-05-01"
+ "SALES_END_DATE":"2016-05-30"
+ "QUANTITY":{"COLOR": "GREEN"
+             "SIZE": {"SIZE-S":"100"
+                      "SIZE-M":"100"
+                      "SIZE-L":"100"	
+                      "SIZE-XL":"100"
+                      }
+            }					  
+ "PRICE": "24.99"
+ "SALE_PRICE": "7.99"
+ }
+}
