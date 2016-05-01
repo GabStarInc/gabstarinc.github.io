@@ -1,36 +1,36 @@
 {
 	"NAME": "Knitted Phants",
 	"DESCRIPTION": "Knitted Phants",
-	"SALES_START_DATE": "2016-05-01",
-	"SALES_END_DATE": "2016-05-30",
+	"SALES_START_DATE": "2016_05_01",
+	"SALES_END_DATE": "2016_05_30",
 	"QUANTITY": {
 		"ITEM": {
 			"COLOR": "BLACK",
-			"SIZE-S": "100",
-			"SIZE-M": "100",
-			"SIZE-L": "100",
-			"SIZE-XL": "100"
+			"SIZE_S": "100",
+			"SIZE_M": "100",
+			"SIZE_L": "100",
+			"SIZE_XL": "100"
 		},
 		"ITEM": {
 			"COLOR": "ROYAL",
-			"SIZE-S": "100",
-			"SIZE-M": "100",
-			"SIZE-L": "100",
-			"SIZE-XL": "100"
+			"SIZE_S": "100",
+			"SIZE_M": "100",
+			"SIZE_L": "100",
+			"SIZE_XL": "100"
 		},
 		"ITEM": {
 			"COLOR": "TEAL",
-			"SIZE-S": "100",
-			"SIZE-M": "100",
-			"SIZE-L": "100",
-			"SIZE-XL": "100"
+			"SIZE_S": "100",
+			"SIZE_M": "100",
+			"SIZE_L": "100",
+			"SIZE_XL": "100"
 		},
 		"ITEM": {
 			"COLOR": "BURGUNDY",
-			"SIZE-S": "100",
-			"SIZE-M": "100",
-			"SIZE-L": "100",
-			"SIZE-XL": "100"
+			"SIZE_S": "100",
+			"SIZE_M": "100",
+			"SIZE_L": "100",
+			"SIZE_XL": "100"
 		}		
 	},
 	"PRICE": "24.99",
