@@ -4,12 +4,12 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  /*color: #5a5a5a;*/
 }
 
 .Arizonia {
 font-family: 'Arizonia', cursive;
-   font-size: -webkit-xxx-large;
+   font-size: xx-large;
    font-weight: bolder;
    color: white;
 }
@@ -55,7 +55,7 @@ font-family: 'Arizonia', cursive;
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-color: #777;
+  /*background-color: #777;*/
 }
 .carousel-inner > .item > img {
   position: absolute;
