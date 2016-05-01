@@ -73,6 +73,9 @@ body {
 
 .Arizonia {
 font-family: 'Arizonia', cursive;
+   font-size: -webkit-xxx-large;
+   font-weight: bolder;
+   color: #A2A2EC;
 }
 
 .masthead-nav > li {
